@@ -34,9 +34,11 @@ The dashboard enables us to observe the dynamic trends of confirmed cases, death
 
 <img width="827" alt="dashboard" src="https://github.com/user-attachments/assets/6a7a9a14-c7d4-4e92-9677-807a618ff859">
 
-**Dashboard** 
+                                                 **Dashboard** 
+
+
 
 <img width="665" alt="bookmark" src="https://github.com/user-attachments/assets/005a9754-1def-48ed-b069-98b06f5e8c3e">
 
-**Bookmark** 
+                                                  **Bookmark** 
 
