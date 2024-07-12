@@ -1,4 +1,4 @@
-<img width="827" alt="dashboard" src="https://github.com/user-attachments/assets/2e3793bc-53ff-4b52-9bdf-20df74a8d7cc"># COVID-19 ANALYSIS DASHBOARD
+# COVID-19 ANALYSIS DASHBOARD
 
 COVID-19 Analysis using Power BI Dashboard.
 
